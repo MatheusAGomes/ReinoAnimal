@@ -1,5 +1,5 @@
 
-public class Sapo extends Anfibio {
+public class Sapo extends Anfibio implements Status {
 	
 
 	public Sapo() {

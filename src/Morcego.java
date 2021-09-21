@@ -1,5 +1,5 @@
 
-public class Morcego extends Mamiferos {
+public class Morcego extends Mamiferos implements Status {
 		
 
 	public Morcego(){

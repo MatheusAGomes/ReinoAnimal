@@ -16,9 +16,7 @@ abstract class Anfibio {
 		
 		
 	}
-	public void printar() {	
-
-	}
+	
 	
 	
 

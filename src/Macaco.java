@@ -1,5 +1,5 @@
 
-public class Macaco extends Mamiferos {
+public class Macaco extends Mamiferos implements Status {
 	
 
 	public Macaco() {

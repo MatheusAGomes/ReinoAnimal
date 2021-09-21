@@ -1,5 +1,5 @@
 
-public class Baleia extends Mamiferos {
+public class Baleia extends Mamiferos implements Status {
 
 	public Baleia() {
 		this.caracteristicasEs = "Marinho";

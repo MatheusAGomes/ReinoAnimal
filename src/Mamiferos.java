@@ -16,10 +16,7 @@ abstract class Mamiferos {
 		
 		
 	}
-	public void printar() {	
 
-	}
-	
 	
 
 }

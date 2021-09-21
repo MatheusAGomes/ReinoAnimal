@@ -1,7 +1,7 @@
 
 
 
-public class Tubarao extends Peixes {
+public class Tubarao extends Peixes implements Status {
 	
 
 	public Tubarao() {

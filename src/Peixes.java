@@ -17,9 +17,6 @@ abstract class Peixes {
 		
 		
 	}
-	public void printar() {	
-
-	}
 	
 	
 

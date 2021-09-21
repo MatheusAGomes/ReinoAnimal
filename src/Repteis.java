@@ -1,7 +1,3 @@
-
-
-
-
 abstract class Repteis {
 	
 	public	String classe;
@@ -19,10 +15,7 @@ abstract class Repteis {
 		
 		
 	}
-	public void printar() {	
 
-	}
-	
 	
 
 }

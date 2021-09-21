@@ -1,5 +1,5 @@
 
-public class Cobra extends Repteis {
+public class Cobra extends Repteis implements Status{
 	
 
 	public Cobra() {
